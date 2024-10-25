@@ -1,8 +1,8 @@
 //******************************************************************
 // BBDistanceFormula.java            Author:Brandon Bocanegra
 //
-// Chapter 3 Assignment Programming the Distance Formula
-// Due 10/01/23
+// 
+// 
 // Write a program that prompts the user to enter the (x,y) 
 // Coordinates for two points using the distance formula
 //******************************************************************
